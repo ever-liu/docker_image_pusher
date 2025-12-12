@@ -1,3 +1,4 @@
+eclipse-temurin:17-jdk-alpine3.22
 bitnami/redis
 mysql:8.0
 nginx
