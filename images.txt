@@ -1,4 +1,4 @@
-openjdk
+bitnami/redis
 mysql:8.0
 nginx
 #支持私库
