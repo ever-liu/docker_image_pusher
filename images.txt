@@ -1,4 +1,4 @@
-openjdk
+mysql:8.0
 nginx
 openjdk:17
 #支持私库
